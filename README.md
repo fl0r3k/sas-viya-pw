@@ -5,8 +5,11 @@
 2. Logujemy się przez SSH na serwer uzywając konta root.
 
 3. wykonujemy polecenia:
+
 yum install git
+
 pip install https://github.com/sassoftware/python-swat/releases/download/v1.3.1/python-swat-1.3.1-linux64.tar.gz
+
 
 4. W nowym terminalu logujemy się na konto uzytkownia student.
 
