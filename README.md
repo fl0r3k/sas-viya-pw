@@ -14,6 +14,9 @@ pip install https://github.com/sassoftware/python-swat/releases/download/v1.3.1/
 4. W nowym terminalu logujemy się na konto uzytkownia student.
 
 5. Wykonujemy polecenia:
+
 git clone https://github.com/fl0r3k/sas-viya-pw
+
 cd sas-viya-pw
+
 jupyter notebook
